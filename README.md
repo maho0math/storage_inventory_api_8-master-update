@@ -51,7 +51,7 @@ docker logs -f storage_api
 ```
 
 ----
-🐰 Очереди сообщений (RabbitMQ)
+# 🐰 Очереди сообщений (RabbitMQ)
 После запуска контейнеров вы можете отслеживать работу очередей через Management UI:
 
 Адрес: http://localhost:15672
