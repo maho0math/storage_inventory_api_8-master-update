@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+beanie==1.28.0
+motor==3.6.0
+pydantic>=2.10.0
+pydantic-settings
+python-dotenv
+pydantic[email]
+bcrypt==4.2.0
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+redis
+minio
+httpx
+aio-pika
+aiosmtplib
